@@ -15,9 +15,10 @@
 .mq-editable-field {
   display: -moz-inline-box;
   display: inline-block;
+  border: red
 }
 .mq-editable-field .mq-cursor {
-  border-left: 10px solid blue;
+  border-left: 1px solid black;
   margin-left: -1px;
   position: relative;
   z-index: 1;
